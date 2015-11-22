@@ -17,7 +17,7 @@ export default class Resume extends Component {
           </a>
         </p>
         <p>
-          Working within Full-Stack Application Development with a focus on JavaScript and UI Engineering
+          Working within Fullstack Application Development with a focus on JavaScript and UI Engineering
         </p>
 
 
