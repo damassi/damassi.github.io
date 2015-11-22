@@ -4,7 +4,6 @@ export default class Projects extends Component {
   render() {
     const { posts } = getProjects()
 
-    console.log('hi');
     return (
       <div id='projects' className='projects'>
         { posts.map((project, index) => {
@@ -33,9 +32,10 @@ export default class Projects extends Component {
                 </ul>
 
                 { project.description &&
-                  <div className='description'>
-                    {project.description}
-                  </div> }
+                  <div
+                    className='description'
+                    dangerouslySetInnerHTML={{__html: project.description }}
+                  /> }
               </div>
 
             <div
