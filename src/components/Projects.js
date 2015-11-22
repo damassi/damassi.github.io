@@ -114,18 +114,6 @@ function getProjects() {
         'description': "Amazon Local Register is Amazon's entry into the Point of Sale marketplace.  As one of three core JavaScript developers responsible for architecting and building out the customer-facing portion of the app and store, I touched nearly every aspect of the code, from POC to final delivery."
       },
       {
-        'url': 'http://www.unseenworlds.net',
-        'title': 'Unseen Worlds Records',
-        'content': "<p><img src='/assets/images/usw/usw-0.png' width='700' height='auto' /></p><p><img src='/assets/images/usw/usw-1.png' width='700' height='auto' /></p><p><img src='/assets/images/usw/usw-2.png' width='700' height='auto' /></p><p><img src='/assets/images/usw/usw-3.png' width='700' height='auto' /></p><p><img src='/assets/images/usw/usw-4.png' width='700' height='auto' /></p><p><img src='/assets/images/usw/usw-5.png' width='700' height='auto' /></p>",
-        'tags': [
-          'Designer',
-          'Full-Stack',
-          'Ruby on Rails',
-          'S3'
-        ],
-        'description': 'Unseen Worlds is a record label releasing quality editions of unheralded and revolutionary, yet accessible, avant garde music. I was responsible for design and development, including shopping cart integration and digital download management through Amazon S3.'
-      },
-      {
         'url': 'http://www.ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.com/',
         'title': 'Coke | MPC Ahhh Beat Maker App',
         'content': "<p><img src='/assets/images/2014/06/1.jpg' width='700' height='359' /></p> <p><img src='/assets/images/2014/06/2.jpg' width='700' height='357' /></p> <p><img src='/assets/images/2014/06/41.png' width='700' height='333' /></p> ",
@@ -136,6 +124,18 @@ function getProjects() {
           'spa'
         ],
         'description': 'MPC Ahh is a responsive single-page app that allows the user to create and share beats, as well as play along via live pads.  I was responsible for architecture, development and animation, including a good amount of design direction. Built on top of Backbone and Parse, with nearly full test coverage via Mocha.'
+      },
+      {
+        'url': 'http://www.unseenworlds.net',
+        'title': 'Unseen Worlds Records',
+        'content': "<p><img src='/assets/images/usw/usw-0.png' width='700' height='auto' /></p><p><img src='/assets/images/usw/usw-1.png' width='700' height='auto' /></p><p><img src='/assets/images/usw/usw-2.png' width='700' height='auto' /></p><p><img src='/assets/images/usw/usw-3.png' width='700' height='auto' /></p><p><img src='/assets/images/usw/usw-4.png' width='700' height='auto' /></p><p><img src='/assets/images/usw/usw-5.png' width='700' height='auto' /></p>",
+        'tags': [
+          'Designer',
+          'Full-Stack',
+          'Ruby on Rails',
+          'S3'
+        ],
+        'description': 'Unseen Worlds is a record label releasing quality editions of unheralded and revolutionary, yet accessible, avant garde music. I was responsible for design and development, including shopping cart integration and digital download management through Amazon S3.'
       },
       {
         'url': '',
