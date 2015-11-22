@@ -126,6 +126,18 @@ function getProjects() {
         'description': 'Unseen Worlds is a record label releasing quality editions of unheralded and revolutionary, yet accessible, avant garde music. I was responsible for design and development, including shopping cart integration and digital download management through Amazon S3.'
       },
       {
+        'url': 'http://www.ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.com/',
+        'title': 'Coke | MPC Ahhh Beat Maker App',
+        'content': "<p><img src='/assets/images/2014/06/1.jpg' width='700' height='359' /></p> <p><img src='/assets/images/2014/06/2.jpg' width='700' height='357' /></p> <p><img src='/assets/images/2014/06/41.png' width='700' height='333' /></p> ",
+        'tags': [
+          'backbone',
+          'parse',
+          'responsive',
+          'spa'
+        ],
+        'description': 'MPC Ahh is a responsive single-page app that allows the user to create and share beats, as well as play along via live pads.  I was responsible for architecture, development and animation, including a good amount of design direction. Built on top of Backbone and Parse, with nearly full test coverage via Mocha.'
+      },
+      {
         'url': '',
         'title': 'Sonifi',
         'content': "<p><img src='/assets/images/sonifi/sonifi-1.png' width='700' height='auto' /></p>",
@@ -151,18 +163,6 @@ function getProjects() {
           'Twilio'
         ],
         'description': 'Avvo Advisor is a software application that connects people to instant (or almost instant) legal advice. Working in Ruby on Rails, I was a part of the team responsible for building the app.'
-      },
-      {
-        'url': 'http://www.ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.com/',
-        'title': 'Coke | MPC Ahhh Beat Maker App',
-        'content': "<p><img src='/assets/images/2014/06/1.jpg' width='700' height='359' /></p> <p><img src='/assets/images/2014/06/2.jpg' width='700' height='357' /></p> <p><img src='/assets/images/2014/06/41.png' width='700' height='333' /></p> ",
-        'tags': [
-          'backbone',
-          'parse',
-          'responsive',
-          'spa'
-        ],
-        'description': 'MPC Ahh is a responsive single-page app that allows the user to create and share beats, as well as play along via live pads.  I was responsible for architecture, development and animation, including a good amount of design direction. Built on top of Backbone and Parse, with nearly full test coverage via Mocha.'
       },
       {
         'url': '',
