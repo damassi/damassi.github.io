@@ -22,6 +22,26 @@ export default class Resume extends Component {
         <h2>
           WORK EXPERIENCE:
         </h2>
+        <a href='http://www.postlight.com' target='_blank'>
+          Time Inc / Postlight
+        </a>
+        <div className='date-worked'>
+          2015 – CURRENT
+        </div>
+        <p>
+          Lead Developer and Architect
+        </p>
+        <ul>
+          <li>
+            Lead developer within a team of four responsible for developing Assignment Desk, a digital asset management platform for Time Inc's many publications
+          </li>
+          <li>
+            Developed a scalable, fullstack, React.js-based framework, built on top of Redux, Redux Form, React Router and more
+          </li>
+          <li>
+            Responsible for initiating process improvements, including the use of Asana
+          </li>
+        </ul>
         <a href='http://www.kindlingapp.com' target='_blank'>
           Kindling – NEW YORK, NEW YORK
         </a>
@@ -33,7 +53,7 @@ export default class Resume extends Component {
         </p>
         <ul>
           <li>
-            Lead JavaScript developer on Kindling, a highly complex, multi-layered SAAS software application used by many Fortune 500 companies and built on top of Backbone.js and React
+            Lead JavaScript developer on Kindling, a highly complex and international SAAS software application used by many Fortune 500 companies and built on top of Backbone.js and React
           </li>
           <li>
             Responsible for modernizing / refactoring the entire application on to 2015 standards.  This included:

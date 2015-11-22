@@ -8,17 +8,17 @@ export default class Home extends Component {
           Christopher Pappas | <a href='mailto:damassi.pappas@gmail.com'>damassi.pappas@gmail.com</a>
         </div>
         <div className='description'>
-          Working within Full-Stack Application Development / Mobile / Design / Animation / Motion Graphics / Game Development and Sound
+          Working within Full-Stack Application Development with a focus on JavaScript and UI Engineering
         </div>
         <div className='skills'>
           <h2>
             SKILLS:
           </h2>
           <p>
-            Object-oriented JavaScript (including ES6), CoffeeScript, Ruby and ActionScript 3; Ruby on Rails and Node.js; React.js, Backbone.js, Webpack and Browserify; Test-driven Development via Mocha, Jasmine and RSpec; Gulp, Grunt and Rake; Haml, Handlebars, Sass and Stylus; Static site builders such as Middleman; native iOS development via RubyMotion; GIT and SVN; and much more.
+            ES6+ written in the Functional and Object Oriented style; Node.js; Ruby and Ruby on Rails; Expert skill-level with React.js and Redux; Backbone.js; Webpack and Browserify; ActionScript 3; Test-driven Development via Mocha, Jasmine and RSpec; native iOS development via RubyMotion; GIT and SVN; and much more.
           </p>
           <p>
-            Experience with: Objective-C, Unity3D, Lua, Audio composition using Ableton Live and Physical Computing concepts via personal experimentation with Ardurino / OpenFrameworks.
+            Experience with: Elm, Objective-C, Unity3D, Lua, and Audio composition using Ableton Live.
           </p>
         </div>
 
