@@ -64,8 +64,8 @@ function getProjects() {
           'ES6+',
           'Full-Stack',
           'Restify',
-          'React / Router',
-          'Redux / Form',
+          'React /- Router',
+          'Redux /- Form',
           'S3',
           'Webpack'
         ],
@@ -77,8 +77,7 @@ function getProjects() {
         'content': "<p><img src='/assets/images/kindling/kindling-3.png' width='700' height='auto' /></p><p><img src='/assets/images/kindling/kindling-0.png' width='700' height='auto' /></p> <p><img src='/assets/images/kindling/kindling-1.png' width='700' height='auto' /></p> <p><img src='/assets/images/kindling/kindling-2.png' width='700' height='auto' /></p>  ",
         'tags': [
           'Backbone',
-          'React',
-          'React Router',
+          'React /- Router',
           'Redux',
           'Webpack'
         ],
