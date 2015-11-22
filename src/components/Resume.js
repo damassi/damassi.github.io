@@ -26,7 +26,7 @@ export default class Resume extends Component {
         </h2>
 
         <a href='http://www.postlight.com' target='_blank'>
-          Time Inc / Postlight
+          TIME INC / POSTLIGHT
         </a>
         <div className='date-worked'>
           2015 – CURRENT
@@ -46,7 +46,7 @@ export default class Resume extends Component {
           </li>
         </ul>
         <a href='http://www.kindlingapp.com' target='_blank'>
-          Kindling – NEW YORK, NEW YORK
+          KINDLING – NEW YORK, NEW YORK
         </a>
 
         <div className='date-worked'>
@@ -88,7 +88,7 @@ export default class Resume extends Component {
         </ul>
 
         <a href='http://www.avvo.com' target='_blank'>
-          Avvo – SEATTLE, WASHINGTON
+          AVVO – SEATTLE, WASHINGTON
         </a>
         <div className='date-worked'>
           2015 – 2015
