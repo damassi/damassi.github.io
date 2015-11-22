@@ -162,7 +162,7 @@ function getProjects() {
           'responsive',
           'spa'
         ],
-        'description': 'MPC Ahh is a responsive single-page app that allows the user to create and share beats, as well as play along via live pads.  Built on top of Backbone and Parse, with nearly full test coverage via Mocha.'
+        'description': 'MPC Ahh is a responsive single-page app that allows the user to create and share beats, as well as play along via live pads.  I was responsible for architecture, development and animation, including a good amount of design direction. Built on top of Backbone and Parse, with nearly full test coverage via Mocha.'
       },
       {
         'url': '',
