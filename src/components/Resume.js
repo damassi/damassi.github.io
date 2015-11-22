@@ -17,7 +17,7 @@ export default class Resume extends Component {
           </a>
         </p>
         <p>
-          Working within Fullstack Application Development with a focus on JavaScript and UI Engineering
+          Working within Full-Stack Application Development with a focus on JavaScript and UI Engineering
         </p>
 
 
@@ -39,7 +39,7 @@ export default class Resume extends Component {
             Lead developer within a team of four responsible for developing Assignment Desk, a digital asset management platform for Time Inc's many publications
           </li>
           <li>
-            Developed a scalable, fullstack, React.js-based framework, built on top of Redux, Redux Form, React Router and more
+            Developed a scalable, full-stack, React.js-based framework, built on top of Redux, Redux Form, React Router and more
           </li>
           <li>
             Responsible for initiating process improvements, including the use of Asana
@@ -78,6 +78,9 @@ export default class Resume extends Component {
                 Restructuring the entire application around a Service Oriented Architecture in an attempt to mitigate “Monolith Creep” as well as position the frontend to better serve our API-centric backend
               </li>
             </ul>
+          </li>
+          <li>
+            Developed an <a href='https://github.com/damassi/react-tinymce-mention' target='_blank'>@mention library</a> for TinyMCE, built on top of React.js and Redux
           </li>
           <li>
             Initiated and led the process of modernizing / updating Kindling’s Product Development feature workflow.  This included designing an entirely new system based around Asana (which replaced a very old Trac-based system), coordinating training, and onboarding new staff
@@ -188,6 +191,18 @@ export default class Resume extends Component {
             Designed and developed training programs for various business units
           </li>
         </ul>
+
+
+        <h2>
+          REFERENCES
+        </h2>
+
+        <p>
+          Garrett Kalleberg, CTO and Creative Director / Kindling <br />
+          <a href='mailto: garrettk@kindlingapp.com'>
+            garrettk@kindlingapp.com
+          </a>
+        </p>
       </div>
     )
   }

@@ -8,7 +8,7 @@ export default class Home extends Component {
           Christopher Pappas | <a href='mailto:damassi.pappas@gmail.com'>damassi.pappas@gmail.com</a>
         </div>
         <div className='description'>
-          Working within Fullstack Application Development with a focus on JavaScript and UI Engineering
+          Working within Full-Stack Application Development with a focus on JavaScript and UI Engineering
         </div>
         <div className='skills'>
           <h2>

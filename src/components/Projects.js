@@ -64,7 +64,7 @@ function getProjects() {
           'ES6+',
           'Functional',
           'Framework',
-          'Fullstack',
+          'Full-Stack',
           'Node.js',
           'Restify',
           'React',
@@ -90,6 +90,19 @@ function getProjects() {
         'description': 'Kindling is a SAAS-based software application that helps the best ideas in an organization rise to the top.  It is easy to use and highly customizable, with an interface built on top of React.js, Backbone and Sass.  As Sr. Developer / UI Engineer, my responsibilities have included refactoring the entire application off of an old, less-than-modern Require.js model and onto Node.js and Webpack, shifting the UI architecture away from Backbone.js and onto React, as well as re-architecting the structure around SOA principles.'
       },
       {
+        'url': 'https://github.com/damassi/react-tinymce-mention',
+        'title': '@Mentions Library for TinyMCE',
+        'content': "<p><img src='/assets/images/mentions/mentions-0.png' width='700' height='auto' /></p>",
+        'tags': [
+          'Library',
+          'React',
+          'Redux',
+          'TinyMCE',
+          'Webpack'
+        ],
+        'description': "Built on top of React and Redux, this library was written to support Kindling's commenting and notification needs. <br /> <a href='https://github.com/damassi/react-tinymce-mention' target='_blank'>github.com/damassi/react-tinymce-mention</a>"
+      },
+      {
         'url': 'https://itunes.apple.com/us/app/amazon-local-register-amazons/id825947720?mt=8',
         'title': 'Amazon Local Register Mobile App',
         'content': "<p><img src='/assets/images/2014/amz/1.jpg' width='700' height='359' /></p> <p><img src='/assets/images/2014/amz/2.jpg' width='700' height='357' /></p> <p><img src='/assets/images/2014/amz/3.jpg' width='700' height='333' /></p> ",
@@ -106,7 +119,7 @@ function getProjects() {
         'content': "<p><img src='/assets/images/usw/usw-0.png' width='700' height='auto' /></p><p><img src='/assets/images/usw/usw-1.png' width='700' height='auto' /></p><p><img src='/assets/images/usw/usw-2.png' width='700' height='auto' /></p><p><img src='/assets/images/usw/usw-3.png' width='700' height='auto' /></p><p><img src='/assets/images/usw/usw-4.png' width='700' height='auto' /></p><p><img src='/assets/images/usw/usw-5.png' width='700' height='auto' /></p>",
         'tags': [
           'Designer',
-          'Fullstack',
+          'Full-Stack',
           'Ruby on Rails',
           'S3'
         ],
@@ -119,7 +132,7 @@ function getProjects() {
         'tags': [
           'Designer',
           'Flummox',
-          'Fullstack',
+          'Full-Stack',
           'MapBox',
           'React',
           'Ruby on Rails',
