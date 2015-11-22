@@ -17,7 +17,7 @@ export default class Resume extends Component {
           </a>
         </p>
         <p>
-          Working within Full-Stack Application Development / Mobile / Design / Animation / Motion Graphics / Game Development and Sound
+          Working within Full-Stack Application Development with a focus on JavaScript and UI Engineering
         </p>
         <h2>
           WORK EXPERIENCE:
@@ -79,26 +79,6 @@ export default class Resume extends Component {
             Initiated and led the process of modernizing / updating Kindling’s Product Development feature workflow.  This included designing an entirely new system based around Asana (which replaced a very old Trac-based system), coordinating training, and onboarding new staff
           </li>
         </ul>
-        <a href='http://www.wintr.us' target='_blank'>
-          WINTR – SEATTLE, WASHINGTON
-        </a>
-        <div className='date-worked'>
-          2014 – 2014
-        </div>
-        <p>
-          Front-end Developer
-        </p>
-        <ul>
-          <li>
-            Lead developer on a number of highly visible single-page applications for Coke and Sonic
-          </li>
-          <li>
-            Led internal technology initiative to move front-end workflows off of a slower, Ruby-based pipeline and onto Node.js
-          </li>
-          <li>
-            Introduced test-driven development into front-end development workflows
-          </li>
-        </ul>
         <a href='http://www.pop.us' target='_blank'>
           POP AGENCY – SEATTLE, WASHINGTON
         </a>
@@ -106,7 +86,7 @@ export default class Resume extends Component {
           2012 – 2014
         </div>
         <p>
-          Sr. Interactive JavaScript / Front-End Developer (Staff)
+          Sr. Interactive JavaScript / Front-End Developer
         </p>
         <ul>
           <li>
@@ -129,7 +109,7 @@ export default class Resume extends Component {
           2011 – 2012
         </div>
         <p>
-          Sr. Interactive Developer (Staff)
+          Sr. Interactive Developer
         </p>
         <ul>
           <li>
@@ -158,20 +138,6 @@ export default class Resume extends Component {
           </li>
           <li>
             Responsible for brainstorming, prototyping, wireframing and design
-          </li>
-        </ul>
-        <a href='http://www.visualgoodness.com/vg2/' target='_blank'>
-          VISUAL GOODNESS – NEW YORK, NEW YORK
-        </a>
-        <div className='date-worked'>
-          2009 – 2010
-        </div>
-        <p>
-          Interactive Developer / Animator (Freelance)
-        </p>
-        <ul>
-          <li>
-            Developed, animated and produced Flash websites for a number of high-profile companies such as Canon, Samsung, Digitas and more
           </li>
         </ul>
         <a href='http://www.motorola.com/Consumers/US-EN/Home' target='_blank'>
