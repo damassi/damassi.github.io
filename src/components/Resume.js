@@ -26,7 +26,7 @@ export default class Resume extends Component {
         </h2>
 
         <a href='http://www.postlight.com' target='_blank'>
-          TIME INC / POSTLIGHT
+          TIME INC / POSTLIGHT – NEW YORK, NEW YORK
         </a>
         <div className='date-worked'>
           2015 – CURRENT
