@@ -1,0 +1,208 @@
+@font-face {
+  font-family: 'TradeGothicLTStd-Light';
+  src: url("../webfonts/TradeGothicLTStd-Light.eot");
+  /* IE9 Compat Modes */
+  src: url("../webfonts/TradeGothicLTStd-Light.eot?#iefix") format("embedded-opentype"), url("../webfonts/TradeGothicLTStd-Light.woff") format("woff"), url("../webfonts/TradeGothicLTStd-Light.ttf") format("truetype"), url("../webfonts/TradeGothicLTStd-Light.svg#0f50e3a4ad6f4ba6047d6df7e537a8fb") format("svg");
+  /* Legacy iOS */
+  font-style: normal;
+  font-weight: 200; }
+
+@font-face {
+  font-family: 'TradeGothicLTStd-Cn18';
+  src: url("../webfonts/TradeGothicLTStd-Cn18.eot");
+  /* IE9 Compat Modes */
+  src: url("../webfonts/TradeGothicLTStd-Cn18.eot?#iefix") format("embedded-opentype"), url("../webfonts/TradeGothicLTStd-Cn18.woff") format("woff"), url("../webfonts/TradeGothicLTStd-Cn18.ttf") format("truetype"), url("../webfonts/TradeGothicLTStd-Cn18.svg#4a2dcf9aedd16ea80255ec374529e2b0") format("svg");
+  /* Legacy iOS */
+  font-style: normal;
+  font-weight: 400; }
+
+@font-face {
+  font-family: 'TradeGothicLTStd-Bold';
+  src: url("../webfonts/TradeGothicLTStd-Bold.eot");
+  /* IE9 Compat Modes */
+  src: url("../webfonts/TradeGothicLTStd-Bold.eot?#iefix") format("embedded-opentype"), url("../webfonts/TradeGothicLTStd-Bold.woff") format("woff"), url("../webfonts/TradeGothicLTStd-Bold.ttf") format("truetype"), url("../webfonts/TradeGothicLTStd-Bold.svg#c1d3633691e9c5760d75ea5ff51c9393") format("svg");
+  /* Legacy iOS */
+  font-style: normal;
+  font-weight: 700; }
+
+* {
+  -webkit-tap-highlight-color: transparent;
+  box-sizing: border-box; }
+
+body {
+  background: #fff;
+  font-family: "TradeGothicLTStd-Light";
+  padding: 60px;
+  font-size: 0.9em;
+  line-height: 1.3em; }
+  @media screen and (max-width: 799px) {
+    body {
+      padding: 20px; } }
+
+a {
+  color: #343434;
+  text-decoration: underline;
+  line-height: 1.6em; }
+  a:hover {
+    color: red; }
+
+h1, h2, h3, h4 {
+  font-family: "TradeGothicLTStd-Light";
+  font-weight: normal; }
+
+hr {
+  margin: 18px 0 18px 0;
+  width: 100%; }
+
+p {
+  margin: 0px 0 20px 0; }
+
+section {
+  padding-bottom: 40px; }
+
+strong {
+  font-family: "TradeGothicLTStd-Bold";
+  font-weight: normal;
+  color: #343434; }
+
+.container {
+  width: 700px;
+  margin: auto; }
+  @media screen and (max-width: 799px) {
+    .container {
+      width: 100%; } }
+
+nav ul {
+  font-family: "TradeGothicLTStd-Cn18";
+  list-style-type: none;
+  padding-left: 0; }
+  nav ul li {
+    position: relative;
+    margin-bottom: 12px; }
+  nav ul a {
+    background: #343434;
+    color: white;
+    font-size: 16px;
+    line-height: 1em;
+    padding: 8px 10px 4px 10px;
+    text-transform: uppercase;
+    text-decoration: none; }
+    nav ul a:visited {
+      color: white; }
+    nav ul a:hover {
+      background: red;
+      color: white; }
+
+.home .name {
+  margin-bottom: 10px; }
+
+.home .skills {
+  margin-top: 60px; }
+
+@media screen and (max-width: 799px) {
+  .projects {
+    width: 100%; } }
+
+.projects h2 {
+  font-size: 2em;
+  font-weight: normal;
+  margin-bottom: 10px;
+  padding-top: 13px; }
+  @media screen and (max-width: 799px) {
+    .projects h2 {
+      line-height: 1.1em; } }
+
+.projects img {
+  width: 460px;
+  height: auto; }
+
+.projects hr {
+  margin: 18px 0 18px 0; }
+  .projects hr.divider {
+    margin-top: -20px; }
+  @media screen and (max-width: 799px) {
+    .projects hr {
+      width: 100%; } }
+
+.projects .project {
+  margin-top: 90px;
+  margin-bottom: 150px; }
+  .projects .project:first-child {
+    margin-top: -20px; }
+  @media screen and (max-width: 799px) {
+    .projects .project {
+      margin-top: 40px;
+      margin-bottom: 70px; } }
+
+.projects .title {
+  position: relative; }
+  .projects .title .link-site {
+    position: absolute;
+    right: 0;
+    top: 10px; }
+    @media screen and (max-width: 799px) {
+      .projects .title .link-site {
+        position: relative;
+        top: 4px; } }
+    .projects .title .link-site a {
+      background: #333;
+      color: white;
+      padding: 8px 10px 3px 10px;
+      font-size: 13px;
+      text-decoration: none;
+      text-transform: uppercase; }
+      .projects .title .link-site a:hover {
+        background: red; }
+
+@media screen and (max-width: 799px) {
+  .projects .about-project {
+    width: 100%;
+    margin-bottom: 24px; } }
+
+.projects .images {
+  margin-top: 30px; }
+  .projects .images img {
+    margin-bottom: 20px;
+    width: 100%;
+    height: auto; }
+
+.projects .tags {
+  color: #777;
+  line-height: 16px;
+  padding-left: 0; }
+  .projects .tags li {
+    font-size: 12px;
+    font-family: "TradeGothicLTStd-Light";
+    display: inline;
+    padding-left: 0; }
+    .projects .tags li:after {
+      content: ", ";
+      color: #aaa; }
+    .projects .tags li:last-child:after {
+      content: ""; }
+
+.projects .images p {
+  background: transparent; }
+
+.projects .images a {
+  background: transparent;
+  padding-left: 0; }
+
+.resume {
+  padding-top: 100px;
+  margin-top: -72px; }
+  @media screen and (max-width: 799px) {
+    .resume {
+      padding-top: 50px;
+      margin-top: -45px; } }
+  .resume h2 {
+    margin-top: 50px;
+    margin-bottom: 30px; }
+  .resume li {
+    font-size: 0.9em; }
+    .resume li:last-child {
+      margin-bottom: 20px; }
+  .resume .date-worked {
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 20px; }

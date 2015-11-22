@@ -1,0 +1,99 @@
+.projects
+
+  +respond-mobile
+    width: 100%
+
+  h2
+    font-size: 2em
+    font-weight: normal
+    margin-bottom: 10px
+    padding-top: 13px
+
+    +respond-mobile
+      line-height: 1.1em
+
+  img
+    width: 460px
+    height: auto
+
+  hr
+    margin: 18px 0 18px 0
+
+    &.divider
+      margin-top: -20px
+
+    +respond-mobile
+      width: 100%
+
+  .project
+    margin-top: 90px
+    margin-bottom: 150px
+
+    &:first-child
+      margin-top: -20px
+
+    +respond-mobile
+      margin-top: 40px
+      margin-bottom: 70px
+
+  .title
+    position: relative
+
+    .link-site
+      position: absolute
+      right: 0
+      top: 10px
+
+      +respond-mobile
+        position: relative
+        top: 4px
+
+      a
+        background: #333
+        color: white
+        padding: 8px 10px 3px 10px
+        font-size: 13px
+        text-decoration: none
+        text-transform: uppercase
+
+        &:hover
+          background: red
+
+  .about-project
+    +respond-mobile
+      width: 100%
+      margin-bottom: 24px
+
+  .images
+    margin-top: 30px
+
+    img
+      margin-bottom: 20px
+      width: 100%
+      height: auto
+
+  .tags
+    color: #777
+    line-height: 16px
+    padding-left: 0
+
+    li
+      font-size: 12px
+      font-family: $font-default
+      display: inline
+      padding-left: 0
+
+      &:after
+        content: ", "
+        color: #aaa
+
+      &:last-child:after
+        content: ""
+
+  .images
+    p
+      background: transparent
+
+    a
+      background: transparent
+      padding-left: 0

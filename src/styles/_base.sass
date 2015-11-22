@@ -1,0 +1,47 @@
+*
+  -webkit-tap-highlight-color: transparent
+  box-sizing: border-box
+
+body
+  background: #fff
+  font-family: $font-default
+  padding: $desktop-padding
+  font-size: $font-size
+  line-height: 1.3em
+
+  +respond-mobile
+    padding: $mobile-padding
+
+a
+  color: $grey-dark
+  text-decoration: underline
+  line-height: 1.6em
+
+  &:hover
+    color: red
+
+h1, h2, h3, h4
+  font-family: $font-default
+  font-weight: normal
+
+hr
+  margin: 18px 0 18px 0
+  width: 100%
+
+p
+  margin: 0px 0 20px 0
+
+section
+  padding-bottom: 40px
+
+strong
+  font-family: $font-bold
+  font-weight: normal
+  color: $grey-dark
+
+.container
+  width: $width
+  margin: auto
+
+  +respond-mobile
+    width: 100%

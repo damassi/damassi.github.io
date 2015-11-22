@@ -1,0 +1,43 @@
+@mixin center-section( $width: 100% )
+   position: absolute
+   top: 0
+   left: 0
+   width: $width
+   margin: 0 auto
+
+@mixin center-everywhere( $width: 100% )
+   position: absolute
+   top: 0
+   right: 0
+   bottom: 0
+   left: 0
+   margin: auto
+
+@mixin disable-selection
+   user-select: none
+   outline-style: none /*IE*/
+
+@mixin btn-hover-transition($time: 200ms, $ease: cubic-bezier(0.250, 0.250, 0.750, 0.750))
+   transition: all $time $ease
+
+@mixin delay($time: 200ms)
+   transition-delay:  $time
+
+@mixin gpu()
+   transform: translate3d(0,0,0)
+
+@mixin bg-gradient-radial( $endColor, $startColor, $colorStop: 50% )
+   background: $startColor
+   background: radial-gradient(center center, ellipse farthest-corner, $startColor 0%, $endColor $colorStop)
+
+@mixin no-transition
+   transition: none !important
+
+@mixin hide
+   display: none !important
+
+@mixin placeholder
+   position: absolute
+   top: 0
+   left: 0
+   pointer-events: none
