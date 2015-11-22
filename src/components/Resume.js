@@ -19,9 +19,12 @@ export default class Resume extends Component {
         <p>
           Working within Full-Stack Application Development with a focus on JavaScript and UI Engineering
         </p>
+
+
         <h2>
           WORK EXPERIENCE:
         </h2>
+
         <a href='http://www.postlight.com' target='_blank'>
           Time Inc / Postlight
         </a>
@@ -45,6 +48,7 @@ export default class Resume extends Component {
         <a href='http://www.kindlingapp.com' target='_blank'>
           Kindling – NEW YORK, NEW YORK
         </a>
+
         <div className='date-worked'>
           2014 – CURRENT
         </div>
@@ -79,6 +83,28 @@ export default class Resume extends Component {
             Initiated and led the process of modernizing / updating Kindling’s Product Development feature workflow.  This included designing an entirely new system based around Asana (which replaced a very old Trac-based system), coordinating training, and onboarding new staff
           </li>
         </ul>
+
+        <a href='http://www.avvo.com' target='_blank'>
+          Avvo – SEATTLE, WASHINGTON
+        </a>
+        <div className='date-worked'>
+          2015 – 2015
+        </div>
+        <p>
+          Software Developer
+        </p>
+        <ul>
+          <li>
+            Worked on a team responsible for Avvo Advisor, a Ruby on Rails based service that instantly connects users to an attorney
+          </li>
+          <li>
+            Implemented features surrounding attorney lookup and email, as well as a Twilio gem for phone based communication
+          </li>
+          <li>
+            Worked on interactive editorial features, responsible for client-side JavaScript and animation
+          </li>
+        </ul>
+
         <a href='http://www.pop.us' target='_blank'>
           POP AGENCY – SEATTLE, WASHINGTON
         </a>
@@ -102,6 +128,7 @@ export default class Resume extends Component {
             Implemented long-term technology initiatives, including setup of a self-hosted GitLab instance aimed at coordinating source-code architectures and fostering collaboration
           </li>
         </ul>
+
         <a href='http://www.click3x.com' target='_blank'>
           CLICK 3X – NEW YORK, NEW YORK
         </a>
@@ -140,6 +167,7 @@ export default class Resume extends Component {
             Responsible for brainstorming, prototyping, wireframing and design
           </li>
         </ul>
+
         <a href='http://www.motorola.com/Consumers/US-EN/Home' target='_blank'>
           MOTOROLA GLOBAL – CHICAGO, ILLINOIS
         </a>

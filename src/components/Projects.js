@@ -71,6 +71,7 @@ function getProjects() {
           'React Router',
           'Redux',
           'Redux Form',
+          'S3',
           'Webpack'
         ],
         'description': "Built under extreme time constraints, Assignment Desk is part one of a series of software applications for Time Inc's Digital Asset Management team. As the lead developer and architect on the project, I was responsible for designing and developing a scalable React-based framework, as well as the supporting backend API service layer. The project was built entirely in the functional style, with Redux serving as my state management library of choice."
@@ -100,19 +101,32 @@ function getProjects() {
         'description': "Amazon Local Register is Amazon's entry into the Point of Sale marketplace.  As one of three core JavaScript developers responsible for architecting and building out the customer-facing portion of the app and store, I touched nearly every aspect of the code, from POC to final delivery."
       },
       {
+        'url': 'http://www.unseenworlds.net',
+        'title': 'Unseen Worlds Records',
+        'content': "<p><img src='/assets/images/usw/usw-0.png' width='700' height='auto' /></p><p><img src='/assets/images/usw/usw-1.png' width='700' height='auto' /></p><p><img src='/assets/images/usw/usw-2.png' width='700' height='auto' /></p><p><img src='/assets/images/usw/usw-3.png' width='700' height='auto' /></p><p><img src='/assets/images/usw/usw-4.png' width='700' height='auto' /></p><p><img src='/assets/images/usw/usw-5.png' width='700' height='auto' /></p>",
+        'tags': [
+          'Designer',
+          'Fullstack',
+          'Ruby on Rails',
+          'S3'
+        ],
+        'description': 'Unseen Worlds is a record label releasing quality editions of unheralded and revolutionary, yet accessible, avant garde music. I was responsible for design and development, including shopping cart integration and digital download management through Amazon S3.'
+      },
+      {
         'url': '',
         'title': 'Sonifi',
         'content': "<p><img src='/assets/images/sonifi/sonifi-1.png' width='700' height='auto' /></p>",
         'tags': [
-          'Design',
+          'Designer',
           'Flummox',
           'Fullstack',
           'MapBox',
           'React',
           'Ruby on Rails',
           'Soundscapes',
+          'S3'
         ],
-        'description': "Sonifi is a proof-of-concept software application that allows users to create geographical \"SoundScapes\" by uploading audio and annotating their environment. As more and more sounds are added and positioned, users can zoom in and navigate in full 3-dimensional sound. I was responsible for design and development, and chose React.js for the frontend and Ruby on Rails for the backend."
+        'description': 'Sonifi is a proof-of-concept software application that allows users to create geographical \"SoundScapes\" by uploading audio and annotating their environment. As more and more sounds are added and positioned, users can zoom in and navigate in full 3-dimensional sound. I was responsible for design and development, and chose React.js for the frontend and Ruby on Rails for the backend.'
       },
       {
         'url': 'http://www.avvo.com/advisor',

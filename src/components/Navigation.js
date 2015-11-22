@@ -6,7 +6,7 @@ export default class Navigation extends Component {
       <nav>
         <ul>
           <li>
-            <a href='#home'>
+            <a href='#hello how are you'>
               θ
             </a>
           </li>
