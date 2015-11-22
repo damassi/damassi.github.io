@@ -119,16 +119,16 @@ export default class Resume extends Component {
         </p>
         <ul>
           <li>
-            Worked on large-scale (30,000+ LOC) web and mobile applications for companies such as Nike, Amazon, Microsoft and Toyota
+            Worked on large-scale (30,000+ LOC) web and mobile applications for companies such as Amazon (Local Register), Microsoft (The New Outlook), Toyota (EShowroom) and Nike (Kiosks)
           </li>
           <li>
-            Provided extensive thought leadership in all areas through experimentation, research and training
-          </li>
-          <li>
-            Modernized front-end development workflows by introducing tools such as Node, Grunt, SASS Git and TD
+            Modernized front-end development workflows by introducing tools such as Node.js, Browserify, Grunt, CSS pre-processors and Git
           </li>
           <li>
             Implemented long-term technology initiatives, including setup of a self-hosted GitLab instance aimed at coordinating source-code architectures and fostering collaboration
+          </li>
+          <li>
+            Provided extensive thought leadership in all areas through experimentation, research and training
           </li>
         </ul>
 
@@ -164,10 +164,7 @@ export default class Resume extends Component {
         </p>
         <ul>
           <li>
-            Worked on developing a series of large-scale company-wide initiatives in the field of web and mobile technologies
-          </li>
-          <li>
-            Responsible for brainstorming, prototyping, wireframing and design
+            Worked on the core team responsible for developing version 1.0 of Showtime Anytime, Showtime's premiere content streaming service.
           </li>
         </ul>
 
