@@ -62,15 +62,10 @@ function getProjects() {
         'content': "<p><img src='/assets/images/adesk/adesk-0.png' width='700' height='auto' /></p><p><img src='/assets/images/adesk/adesk-1.png' width='700' height='auto' /></p><p><img src='/assets/images/adesk/adesk-2.png' width='700' height='auto' /></p><p><img src='/assets/images/adesk/adesk-3.png' width='700' height='auto' /></p><p><img src='/assets/images/adesk/adesk-4.png' width='700' height='auto' /></p>",
         'tags': [
           'ES6+',
-          'Functional',
-          'Framework',
           'Full-Stack',
-          'Node.js',
           'Restify',
-          'React',
-          'React Router',
-          'Redux',
-          'Redux Form',
+          'React / Router',
+          'Redux / Form',
           'S3',
           'Webpack'
         ],
