@@ -22,7 +22,7 @@ export default class Resume extends Component {
 
 
         <h2>
-          WORK EXPERIENCE:
+          WORK EXPERIENCE
         </h2>
 
         <a href='http://www.postlight.com' target='_blank'>
@@ -32,7 +32,7 @@ export default class Resume extends Component {
           2015 – CURRENT
         </div>
         <p>
-          Lead Developer and Architect
+          Lead Developer / Architect
         </p>
         <ul>
           <li>
@@ -57,10 +57,10 @@ export default class Resume extends Component {
         </p>
         <ul>
           <li>
-            Lead JavaScript developer on Kindling, a highly complex and international SAAS software application used by many Fortune 500 companies and built on top of Backbone.js and React
+            Lead JavaScript developer on Kindling, a highly complex and international SaaS software application used by many Fortune 500 companies and built on top of Backbone.js and React
           </li>
           <li>
-            Responsible for modernizing / refactoring the entire application on to 2015 standards.  This included:
+            Responsible for modernizing / refactoring the entire application up to 2015 standards.  This included:
             <ul>
               <li>
                 Moving the technology stack off of an antiquated ensemble of uncoordinated shell scripts and onto a Gulp-based build process
@@ -69,7 +69,7 @@ export default class Resume extends Component {
                 Implementing a CI/Jenkins-based Unit Testing suite that runs after every commit
               </li>
               <li>
-                Refactoring many, many hundreds of files off of Require.js (AMD) and onto CommonJS via Node.js and Webpack, which has allowed for a seamless migration-path onto modern tooling such as ES6 (ECMAScript 2015) and React.js
+                Refactoring many, many hundreds of files off of Require.js (AMD) and onto CommonJS via Node.js and Webpack, which has allowed for a seamless migration path onto modern tooling such as ES6 (ECMAScript 2015) and React.js
               </li>
               <li>
                 Removing Bower in favor of Node Package Manager (NPM), which unified many disparate areas of the application under a single package manager
@@ -83,7 +83,7 @@ export default class Resume extends Component {
             Developed an <a href='https://github.com/damassi/react-tinymce-mention' target='_blank'>@mention library</a> for TinyMCE, built on top of React.js and Redux
           </li>
           <li>
-            Initiated and led the process of modernizing / updating Kindling’s Product Development feature workflow.  This included designing an entirely new system based around Asana (which replaced a very old Trac-based system), coordinating training, and onboarding new staff
+            Initiated and led the process of modernizing / updating Kindling’s Product Development feature workflow.  This included designing an entirely new system based around Asana (which replaced a very old Trac-based system), coordinating training and onboarding new staff
           </li>
         </ul>
 
@@ -91,17 +91,17 @@ export default class Resume extends Component {
           AVVO – SEATTLE, WASHINGTON
         </a>
         <div className='date-worked'>
-          2015 – 2015
+          2014
         </div>
         <p>
           Software Developer
         </p>
         <ul>
           <li>
-            Worked on a team responsible for Avvo Advisor, a Ruby on Rails based service that instantly connects users to an attorney
+            Worked on a team responsible for Avvo Advisor, a Ruby on Rails service that instantly connects users to an attorney
           </li>
           <li>
-            Implemented features surrounding attorney lookup and email, as well as a Twilio gem for phone based communication
+            Implemented features surrounding attorney lookup and email, as well as a Twilio gem for phone-based communication
           </li>
           <li>
             Worked on interactive editorial features, responsible for client-side JavaScript and animation
@@ -160,11 +160,11 @@ export default class Resume extends Component {
           2010
         </div>
         <p>
-          Interactive Developer / Designer (Freelance)
+          Interactive Developer / Designer
         </p>
         <ul>
           <li>
-            Worked on the core team responsible for developing version 1.0 of Showtime Anytime, Showtime's premiere content streaming service.
+            Worked on the core team responsible for developing version 1.0 of Showtime Anytime, Showtime's premiere content streaming service
           </li>
         </ul>
 
@@ -175,7 +175,7 @@ export default class Resume extends Component {
           2006 – 2009
         </div>
         <p>
-          Sr. Interactive Art Director / Developer / Motion-Graphics Designer (Staff)
+          Sr. Interactive Art Director / Developer / Motion-Graphics Designer
         </p>
         <ul>
           <li>

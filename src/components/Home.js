@@ -12,13 +12,13 @@ export default class Home extends Component {
         </div>
         <div className='skills'>
           <h2>
-            SKILLS:
+            SKILLS
           </h2>
           <p>
             ES6+ written in the Functional and Object Oriented style; Node.js; Ruby and Ruby on Rails; Expert level React.js and Redux; Backbone.js; Webpack and Browserify; ActionScript 3; Test-driven Development via Mocha, Jasmine and RSpec; native iOS development via RubyMotion; GIT and SVN; and much more.
           </p>
           <p>
-            Experience with: Elm, Objective-C, Unity3D, Lua, and audio composition using Ableton Live.
+            Experience with Elm, Objective-C, Unity3D, Lua and audio composition using Ableton Live.
           </p>
         </div>
 
