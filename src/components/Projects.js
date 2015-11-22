@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import { capitalize } from 'lodash'
 
 export default class Projects extends Component {
   render() {
@@ -26,7 +27,7 @@ export default class Projects extends Component {
                 <ul className='tags'>
                   { project.tags.map((tag, index) =>
                     <li key={index}>
-                      {tag}
+                      {capitalize(tag)}
                     </li>
                   )}
                 </ul>
@@ -72,17 +73,18 @@ function getProjects() {
           'Redux Form',
           'Webpack'
         ],
-        'description': "Built under extreme time constraints, Assignment Desk is part one of a series of software applications for Time's Digital Asset Management team. As the lead developer and architect on the project, I was responsible for designing and developing a scalable React-based framework, as well as the supporting backend API service layer. The project was built entirely in the functional style, with Redux serving as my state management library of choice."
+        'description': "Built under extreme time constraints, Assignment Desk is part one of a series of software applications for Time Inc's Digital Asset Management team. As the lead developer and architect on the project, I was responsible for designing and developing a scalable React-based framework, as well as the supporting backend API service layer. The project was built entirely in the functional style, with Redux serving as my state management library of choice."
       },
       {
         'url': 'http://www.kindlingapp.com',
         'title': 'Kindling',
-        'content': "<p><img src='/assets/images/2015/kindling/1.png' width='700' height='auto' /></p> <p><img src='/assets/images/2015/kindling/2.png' width='700' height='auto' /></p> <p><img src='/assets/images/2015/kindling/3.png' width='700' height='auto' /></p> <p><img src='/assets/images/2015/kindling/4.png' width='700' height='auto' /></p> ",
+        'content': "<p><img src='/assets/images/kindling/kindling-3.png' width='700' height='auto' /></p><p><img src='/assets/images/kindling/kindling-0.png' width='700' height='auto' /></p> <p><img src='/assets/images/kindling/kindling-1.png' width='700' height='auto' /></p> <p><img src='/assets/images/kindling/kindling-2.png' width='700' height='auto' /></p>  ",
         'tags': [
-          'backbone',
-          'react',
-          'javascript',
-          'responsive'
+          'Backbone',
+          'React',
+          'React Router',
+          'Redux',
+          'Webpack'
         ],
         'description': 'Kindling is a SAAS-based software application that helps the best ideas in an organization rise to the top.  It is easy to use and highly customizable, with an interface built on top of React.js, Backbone and Sass.  As Sr. Developer / UI Engineer, my responsibilities have included refactoring the entire application off of an old, less-than-modern Require.js model and onto Node.js and Webpack, shifting the UI architecture away from Backbone.js and onto React, as well as re-architecting the structure around SOA principles.'
       },
@@ -197,7 +199,7 @@ function getProjects() {
         'tags': [
           'design',
           'javascript',
-          'php'
+          'PHP'
         ],
         'description': 'At the height of Occupy Wallstreet my girlfriend and I wanted to find a way to contribute and came up with QuitYourBank.org, a site to showcase solidarity support for alternative banking systems in opposition to the global banking cartels.'
       }
