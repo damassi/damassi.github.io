@@ -58,7 +58,7 @@ function getProjects() {
     'posts': [
       {
         'url': '',
-        'title': 'Assignment Desk',
+        'title': 'Time Inc | Assignment Desk',
         'content': "<p><img src='/assets/images/adesk/adesk-0.png' width='700' height='auto' /></p><p><img src='/assets/images/adesk/adesk-1.png' width='700' height='auto' /></p><p><img src='/assets/images/adesk/adesk-2.png' width='700' height='auto' /></p><p><img src='/assets/images/adesk/adesk-3.png' width='700' height='auto' /></p><p><img src='/assets/images/adesk/adesk-4.png' width='700' height='auto' /></p>",
         'tags': [
           'ES6+',
