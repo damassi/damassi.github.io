@@ -161,7 +161,7 @@ function getProjects() {
       },
       {
         'title': 'Sonifi',
-        'description': 'Sonifi is a proof-of-concept software application that allows users to create geographical \"SoundScapes\" by uploading audio and annotating their environment. As more and more sounds are added and positioned, users can zoom in and navigate in full 3-dimensional sound. I was responsible for design and development, and chose React.js for the frontend and Ruby on Rails for the backend.',
+        'description': 'Sonifi is a proof-of-concept software application that allows users to create geographical \"SoundScapes\" by uploading audio and annotating their environment. As more and more items are added and positioned, users can zoom in and navigate in full 3-dimensional sound. I was responsible for design and development, and chose React.js for the frontend and Ruby on Rails for the backend.',
         'images': [
           '/assets/images/sonifi/sonifi-1.png'
         ],
@@ -210,6 +210,21 @@ function getProjects() {
         ],
       },
       {
+        'title': 'SHOWTIME ANYTIME v1.0',
+        'description': 'Showtime Anytime is a one-stop location for subscribers to access all of Showtime’s programming.  Brought on as one of two developers, I was involved in every stage of the project; from brainstorming, wire-framing and art direction to programming, I was working with a core team involved in bringing a much-desired product—and one of Showtime’s biggest online properties—to life. ',
+        'url': 'http://www.showtimeanytime.com',
+        'images': [
+          '/assets/images/2012/03/show_1.jpg',
+          '/assets/images/2012/03/sho_2.jpg',
+          '/assets/images/2012/03/show_3.jpg',
+          '/assets/images/2012/03/sho_4.jpg'
+        ],
+        'tags': [
+          'AS3',
+          'Brightcove Video API'
+        ],
+      },
+      {
         'title': 'Nike+ | FuelBand SE Global Kiosk',
         'description': 'With the new release of the Nike+ FuelBand SE, Nike wanted to revamp their current in-store kiosk presence to reflect the latest style.  Released in over 200 NikeTown stores around the world, the kiosk features an interactive touchscreen interface, video, analytics and more.  I was the lead JavaScript developer on the project, responsible for coding and animation.',
         'images': [
@@ -236,21 +251,6 @@ function getProjects() {
           'backbone',
           'chrome extension',
           'sass'
-        ],
-      },
-      {
-        'title': 'SHOWTIME ANYTIME',
-        'description': 'Showtime Anytime is a one-stop location for subscribers to access all of Showtime’s programming.  Brought on as one of two developers, I was involved in every stage of the project; from brainstorming, wire-framing and art direction to programming, I was working with a core team involved in bringing a much-desired product—and one of Showtime’s biggest online properties—to life. ',
-        'url': 'http://www.showtimeanytime.com',
-        'images': [
-          '/assets/images/2012/03/show_1.jpg',
-          '/assets/images/2012/03/sho_2.jpg',
-          '/assets/images/2012/03/show_3.jpg',
-          '/assets/images/2012/03/sho_4.jpg'
-        ],
-        'tags': [
-          'AS3',
-          'Brightcove Video API'
         ],
       },
       {
