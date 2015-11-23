@@ -200,6 +200,15 @@ export default class Resume extends Component {
             garrettk@kindlingapp.com
           </a>
         </p>
+
+        <p>
+          Jim Nielsen, Lead Designer / Kindling <br />
+          <a href='mailto: jimniels@gmail.com'>
+            jimniels@gmail.com
+          </a>
+        </p>
+
+
       </div>
     )
   }
