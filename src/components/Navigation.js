@@ -26,11 +26,6 @@ export default class Navigation extends Component {
             </a>
           </li>
           <li>
-            <a href='http://www.iiiiiiiiii.co/selectedwork' target='_blank'>
-              miscellaneous
-            </a>
-          </li>
-          <li>
             <a href='https://twitter.com/damassi' target='_blank'>
               Twitter
             </a>

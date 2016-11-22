@@ -58,6 +58,27 @@ function getProjects() {
   return {
     'posts': [
       {
+        'title': 'The Groundwork / Groundwork.js',
+        'description': 'The Groundwork is a SaaS application built on top of React.js and Redux and powered by the microservices that supported the Hillary Clinton presidential campaign. I was responsible for architecting large portions of the application, most notably Event Management, as well as handling FrontEnd DevOps.',
+        'url': 'http://developer.thegroundwork.com',
+        'images': [
+          '/assets/images/groundwork/gw-1.png',
+          '/assets/images/groundwork/gw-2.png',
+          '/assets/images/groundwork/gw-3.png',
+          '/assets/images/groundwork/gw-4.png',
+          '/assets/images/groundwork/gw-5.png',
+          '/assets/images/groundwork/gw-6.png'
+        ],
+        'tags': [
+          'Django',
+          'ES6+',
+          'Restify',
+          'React',
+          'Redux',
+          'Webpack'
+        ],
+      },
+      {
         'title': 'Time Inc | Assignment Desk',
         'description': "Built under extreme time constraints, Assignment Desk is part one of a series of software applications for Time Inc's Digital Asset Management team. As the lead developer and architect on the project, I was responsible for designing and developing a scalable React-based framework, as well as the supporting backend API service layer. The project was built entirely in the functional style, with Redux serving as my state management library of choice.",
         'images': [

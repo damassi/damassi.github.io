@@ -12,12 +12,12 @@ export default class Resume extends Component {
           </a>
         </p>
         <p>
-          <a href='http://damassi.github.io/assets/resume/resume-christopher-pappas-2015.pdf' target='_blank'>
+          <a href='http://damassi.github.io/assets/resume/resume-christopher-pappas-2016.pdf' target='_blank'>
             Download PDF
           </a>
         </p>
         <p>
-          Working within Full-Stack Application Development with a focus on JavaScript and UI Engineering
+          Working within Full-Stack Application Development with a focus on JavaScript, UI Engineering and Frontend DevOps
         </p>
 
 
@@ -25,11 +25,32 @@ export default class Resume extends Component {
           WORK EXPERIENCE
         </h2>
 
+        <a href='http://www.thegroundwork.com' target='_blank'>
+          TIMSHEL / THE GROUNDWORK – NEW YORK, NEW YORK
+        </a>
+        <div className='date-worked'>
+          2016 – CURRENT
+        </div>
+        <p>
+          Frontend Software Engineer
+        </p>
+        <ul>
+          <li>
+            Part of a small, tight-knit team responsible for developing a React / Redux-based SaaS application on top of microservices developed for the Hillary Clinton presidential campaign (<a href='https://developer.thegroundwork.com/' target='_blank'>https://developer.thegroundwork.com</a>)
+          </li>
+          <li>
+            Core contributor to our open-source library, Groundwork.js (<a href='https://github.com/thegroundwork/groundwork.js'>https://github.com/thegroundwork/groundwork.js</a>)
+          </li>
+          <li>
+            Implemented large-scale refactors across the entire stack to improve tooling with a focus on performance and optimization around DX (Developer Experience)
+          </li>
+        </ul>
+
         <a href='http://www.postlight.com' target='_blank'>
           TIME INC / POSTLIGHT – NEW YORK, NEW YORK
         </a>
         <div className='date-worked'>
-          2015 – CURRENT
+          2015 – 2016
         </div>
         <p>
           Lead Developer / Architect
