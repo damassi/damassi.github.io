@@ -216,9 +216,9 @@ export default class Resume extends Component {
         </h2>
 
         <p>
-          Garrett Kalleberg, CTO and Creative Director / Kindling <br />
-          <a href='mailto: garrettk@kindlingapp.com'>
-            garrettk@kindlingapp.com
+          Darren Newton, Frontend Lead / Timshel <br />
+          <a href='mailto:darren@v25media.com'>
+            darren@v25media.com
           </a>
         </p>
 
@@ -228,7 +228,6 @@ export default class Resume extends Component {
             jimniels@gmail.com
           </a>
         </p>
-
 
       </div>
     )

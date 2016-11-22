@@ -15,7 +15,7 @@ export default class Home extends Component {
             SKILLS
           </h2>
           <p>
-            ES6+ written in the Functional and Object Oriented style; Expert skill-level with React.js and Redux, including ecosystem; Expert Frontend DevOps skills with a focus on Webpack; Experience with Ruby on Rails and Django; Test-driven Development via Mocha, Jasmine and RSpec; Experience with AWS and cloud environments such as Heroku; and much more.
+            ES6+ written in the Functional and Object Oriented style; Expert skill-level with React.js and Redux, including ecosystem; Frontend DevOps skills with a focus on Webpack; Experience with Ruby on Rails and Django; Test-driven Development via Mocha, Jasmine and RSpec; Experience with AWS and cloud environments such as Heroku; and much more.
           </p>
           <p>
             Experience with Elm, ClojureScript, Objective-C, Unity3D, Lua and audio composition using Ableton Live.

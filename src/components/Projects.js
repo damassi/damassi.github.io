@@ -58,24 +58,35 @@ function getProjects() {
   return {
     'posts': [
       {
-        'title': 'The Groundwork / Groundwork.js',
-        'description': 'The Groundwork is a SaaS application built on top of React.js and Redux and powered by the microservices that supported the Hillary Clinton presidential campaign. I was responsible for architecting large portions of the application, most notably Event Management, as well as handling FrontEnd DevOps.',
+        'title': 'The Groundwork',
+        'description': 'The Groundwork is a SaaS application built on top of React.js and Redux and powered by the microservices that supported the Hillary Clinton presidential campaign. I was responsible for architecting and refactoring large portions of the application as well as handling Frontend DevOps.',
         'url': 'http://developer.thegroundwork.com',
         'images': [
           '/assets/images/groundwork/gw-1.png',
           '/assets/images/groundwork/gw-2.png',
           '/assets/images/groundwork/gw-3.png',
           '/assets/images/groundwork/gw-4.png',
-          '/assets/images/groundwork/gw-5.png',
-          '/assets/images/groundwork/gw-6.png'
+          '/assets/images/groundwork/gw-5.png'
         ],
         'tags': [
           'Django',
           'ES6+',
-          'Restify',
           'React',
           'Redux',
           'Webpack'
+        ],
+      },
+      {
+        'title': 'Groundwork.js',
+        'description': 'Groundwork.js is an open-source JavaScript library facilitating interaction with The Groundwork Platform. As a core contributor on the project, I was responsible for adding functionality as new services came online as well as rewriting the build pipeline.',
+        'url': 'https://github.com/thegroundwork/groundwork.js',
+        'images': [
+          '/assets/images/groundwork/gw-7.png',
+          '/assets/images/groundwork/gw-6.png'
+        ],
+        'tags': [
+          'ES6',
+          'JavaScript'
         ],
       },
       {
