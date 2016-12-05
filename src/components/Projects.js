@@ -298,18 +298,6 @@ function getProjects() {
           'PHP',
           'Wordpress'
         ],
-      },
-      {
-        'title': 'Quit Your Bank',
-        'description': 'At the height of Occupy Wallstreet my partner and I wanted to find a way to contribute and came up with QuitYourBank.org, a site to showcase solidarity support for alternative banking systems in opposition to the global banking cartels.',
-        'images': [
-          '/assets/images/2013/08/quityourbank.png'
-        ],
-        'tags': [
-          'design',
-          'javascript',
-          'PHP'
-        ],
       }
     ]
   }
