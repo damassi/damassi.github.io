@@ -223,6 +223,13 @@ export default class Resume extends Component {
         </p>
 
         <p>
+          Ed Benjamin, Director of Engineering / Time Inc
+          <a href='mailto:ed.benjamin@timeinc.com'>
+            ed.benjamin@timeinc.com
+          </a>
+        </p>
+
+        <p>
           Jim Nielsen, Lead Designer / Kindling <br />
           <a href='mailto: jimniels@gmail.com'>
             jimniels@gmail.com
